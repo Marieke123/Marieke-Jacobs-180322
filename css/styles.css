@@ -1,1 +1,12 @@
 @charset "utf-8";
+
+body {
+	background-color: #E1DAC2; 
+	color: #ED4A8C; 
+}
+
+.jumbotron-fluid {
+	background-image: url("../images/backgounnd2.jpg");
+}
+
+

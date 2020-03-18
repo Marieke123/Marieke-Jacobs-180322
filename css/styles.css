@@ -1,12 +1,12 @@
 @charset "utf-8";
 
-body {
+main {
 	background-color: #E1DAC2; 
 	color: #ED4A8C; 
 }
 
-.header {
-	background-color: #A3904F;
+.navbar {
+	background-color: #BDAE7A;
 }
 
 .jumbotron-fluid {
@@ -22,4 +22,7 @@ p {
 img {
   width: 100%;
   height: auto;
+}
+.footer {
+	background-image: url("../images/backgounnd2.jpg")
 }
